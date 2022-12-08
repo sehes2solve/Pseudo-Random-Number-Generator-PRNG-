@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1553115965 source:c:\users\ehab\desktop\pesudo number generator v2\main.cpp
+	<iostream>
+	<fstream>
+	<cmath>
+

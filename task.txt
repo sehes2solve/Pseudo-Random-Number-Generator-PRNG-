@@ -1,0 +1,6 @@
+Task#2
+
+Develop a pseudo-random number generator (PRNG) Function
+
+Input: Seed
+Output: Sequence of 100 pseudo-random numbers (between 0 and 1)
